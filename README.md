@@ -9,7 +9,7 @@
 
 I'm a passionate Web Developer with experience in building modern, responsive, and scalable web applications. I specialize in frontend and backend technologies, focusing on clean and maintainable code.
 
-🌟 Current Activities
+## 🌟 Current Activities
 
 🌱 I’m exploring Next.js
 
