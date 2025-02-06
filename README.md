@@ -1,10 +1,21 @@
 # ![Web Development Banner](https://soifon.io/wp-content/uploads/2023/07/web-development-2.jpg)
 
+<!-- https://eldalab.in/wp-content/uploads/2023/08/web-development.jpg  -->
+<!-- https://wcs.uwo.ca/upload/CE0060b.png  -->
+
 # Hi there, I'm [Riad Tanvir Hassan] 👋
 
 ## 🚀 About Me
 
 I'm a passionate Web Developer with experience in building modern, responsive, and scalable web applications. I specialize in frontend and backend technologies, focusing on clean and maintainable code.
+
+🌟 Current Activities
+
+🌱 I’m exploring Next.js
+
+💻 I’m working on a tourism website
+
+📖 Learning about software architecture and system design
 
 ## 💻 Tech Stack
 
