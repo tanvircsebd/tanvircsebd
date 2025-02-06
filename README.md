@@ -2,8 +2,8 @@
 
 <!-- https://eldalab.in/wp-content/uploads/2023/08/web-development.jpg  -->
 <!-- https://wcs.uwo.ca/upload/CE0060b.png  -->
-
-# Hi there, I'm [Riad Tanvir Hassan] 👋
+<!--
+# Hi there, I'm [Riad Tanvir Hassan] 👋 -->
 
 ## 🚀 About Me
 
@@ -17,9 +17,7 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
 
 📖 Learning about software architecture and system design
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
+<h2 align="left" id="macropower-tech">Skills</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
@@ -41,12 +39,29 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
 </div>
 
-## 💻 Tech Stack
+<h2 align="center">Connect with me</h2>
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nazmul-hussain-utchchash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/nazzmul.hussain.utchchash" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- ## 💻 Tech Stack
 
 - **Frontend:** React.js, Next.js, Tailwind CSS, Flowbite, daisyUI
 - **Backend:** Python Flask
 - **Database:** SQLite, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, Vercel, Docker
+- **Tools & Platforms:** Git, GitHub, Vercel, Docker -->
 
 ## 📫 Connect with Me
 
