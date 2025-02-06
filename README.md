@@ -53,6 +53,7 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanvircsebd&repo=github-readme-stats)](https://github.com/tanvircsebd/github-readme-stats)
 
 <!-- ## 💻 Tech Stack
 
