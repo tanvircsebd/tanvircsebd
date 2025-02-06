@@ -52,8 +52,12 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
   </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats) -->
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tanvircsebd" />
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats)
+<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircsebd" />
 
 <!-- ## 💻 Tech Stack
 
