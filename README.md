@@ -56,15 +56,22 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats) -->
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tanvircsebd" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats) -->
 <img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircsebd" />
 
-<!-- ## 💻 Tech Stack
+###
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, Flowbite, daisyUI
-- **Backend:** Python Flask
-- **Database:** SQLite, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, Vercel, Docker -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvircsebd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=tanvircsebd&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 ## 📫 Connect with Me
 
