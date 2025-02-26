@@ -105,13 +105,13 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
 
-## 🛠️ Projects
+<!-- ## 🛠️ Projects
 
 Here are some of my recent projects:
 
 - **Project 1** - [GitHub Repo](https://github.com/yourgithubusername/project1)
 - **Project 2** - [GitHub Repo](https://github.com/yourgithubusername/project2)
-- **Project 3** - [GitHub Repo](https://github.com/yourgithubusername/project3)
+- **Project 3** - [GitHub Repo](https://github.com/yourgithubusername/project3) -->
 
 ## 🎯 What I'm Currently Working On
 
