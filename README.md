@@ -9,7 +9,7 @@
 
 I'm a passionate Web Developer with experience in building modern, responsive, and scalable web applications. I specialize in frontend and backend technologies, focusing on clean and maintainable code.
 
-## How to reach me tanvircsebd@gmail.com
+## Connect me: tanvircsebd@gmail.com
 
 ###
 
@@ -70,18 +70,9 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
 </div>
 
-<h2 align="center">Connect with me</h2>
+<!-- <h2 align="center">Connect with me</h2> -->
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nazmul-hussain-utchchash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/nazzmul.hussain.utchchash" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
+<!-- <br clear="both"> -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats) -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvircsebd)](https://github.com/tanvircsebd/github-readme-stats) -->
@@ -106,9 +97,9 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Portfolio:** [Your Website](https://yourwebsite.com)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Tanvir Hassan](https://www.linkedin.com/in/tanvir-hassan-894987335/)
+- **Portfolio:** [My Website](https://stalwart-praline-161650.netlify.app)
+- **Email:** tanvircsebd@gmail.com
 
 ## 🌟 GitHub Stats
 
