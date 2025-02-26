@@ -9,6 +9,8 @@
 
 I'm a passionate Web Developer with experience in building modern, responsive, and scalable web applications. I specialize in frontend and backend technologies, focusing on clean and maintainable code.
 
+## How to reach me tanvircsebd@gmail.com
+
 ###
 
 <!-- Social Links-->
@@ -18,7 +20,7 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   <!-- LinkedIn-->
-  <a href="in/tanvir-hassan-894987335" target="_blank">
+  <a href="https://www.linkedin.com/in/tanvir-hassan-894987335/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!-- Gmail -->
