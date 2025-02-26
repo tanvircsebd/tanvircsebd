@@ -9,6 +9,35 @@
 
 I'm a passionate Web Developer with experience in building modern, responsive, and scalable web applications. I specialize in frontend and backend technologies, focusing on clean and maintainable code.
 
+###
+
+<!-- Social Links-->
+<div align="center"> 
+  <!-- Portfolio-->
+  <a href="https://stalwart-praline-161650.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <!-- LinkedIn-->
+  <a href="in/tanvir-hassan-894987335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!-- Gmail -->
+  <a href="mailto::tanvircsebd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <!-- WhatsApp-->
+  <a href="https://wa.me/01779657708" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+</div>
+<br/>
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
 ## 🌟 Current Activities
 
 🌱 I’m exploring Flask and Next.js
@@ -61,9 +90,9 @@ I'm a passionate Web Developer with experience in building modern, responsive, a
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanvircsebd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
-</div>
+</div> -->
 
 ###
 
